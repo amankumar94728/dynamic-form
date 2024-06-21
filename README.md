@@ -17,7 +17,7 @@ This project is a dynamic event registration form built with React. The form all
 
 ## Folder Structure
 
-```
+
 dynamic-form/
 ├── public/
 │   ├── index.html
@@ -35,7 +35,7 @@ dynamic-form/
 ├── package.json
 ├── README.md
 └── ...
-```
+
 
 ## Installation
 
